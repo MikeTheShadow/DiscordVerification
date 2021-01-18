@@ -1,0 +1,6 @@
+name: DiscordVerification
+version: ${project.version}
+main: com.miketheshadow.discordverification.DiscordVerification
+api-version: 1.14
+authors: [ MikeTheShadow ]
+description: A simple discord verification plugin
